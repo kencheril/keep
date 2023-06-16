@@ -1,6 +1,6 @@
-<mxfile modified="2023-06-15T19:14:03.727Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="wSqI76MXn53cdUohjv12" version="21.3.8" type="github">
+<mxfile modified="2023-06-16T07:23:03.318Z" host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Safari/537.36" etag="GDNFdnmM678LfabOttqM" version="21.3.8" type="github">
   <diagram id="f106602c-feb2-e66a-4537-3a34d633f6aa" name="Page-1">
-    <mxGraphModel dx="2161" dy="953" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#D5E8D4" math="0" shadow="0">
+    <mxGraphModel dx="1801" dy="794" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#D5E8D4" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,6 +244,14 @@
         </mxCell>
         <mxCell id="AcqPu3Vye6vO09F_giCF-1069" value="Start" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#ff0000;fontColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="200" y="414" width="40" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOqoAVmWqrzrm89aGale-999" value="Task description" style="html=1;shadow=0;dashed=0;shape=mxgraph.atlassian.issue;issueType=story;issuePriority=blocker;issueStatus=inProgress;verticalAlign=top;align=left;whiteSpace=wrap;overflow=hidden;spacingTop=25;strokeColor=#A8ADB0;fillColor=#EEEEEE;fontSize=12;backgroundOutline=1;sketch=0;" vertex="1" parent="1">
+          <mxGeometry x="1009" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="ZOqoAVmWqrzrm89aGale-1000" value="ID" style="strokeColor=none;fillColor=none;part=1;resizable=0;align=left;autosize=1;points=[];deletable=0;connectable=0;" vertex="1" parent="ZOqoAVmWqrzrm89aGale-999">
+          <mxGeometry width="60" height="20" relative="1" as="geometry">
+            <mxPoint x="20" as="offset" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
